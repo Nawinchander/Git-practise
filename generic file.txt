@@ -1,0 +1,3 @@
+file with value
+
+to the git implementation
